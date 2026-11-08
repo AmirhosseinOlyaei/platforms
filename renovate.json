@@ -1,0 +1,13 @@
+{
+  "$schema": "https://docs.renovatebot.com/renovate-schema.json",
+  "extends": ["config:recommended"],
+  "rangeStrategy": "bump",
+  "schedule": ["before 6am on Monday"],
+  "packageRules": [
+    {
+      "groupName": "minor and patch",
+      "matchUpdateTypes": ["minor", "patch"],
+      "minimumGroupSize": 2
+    }
+  ]
+}
