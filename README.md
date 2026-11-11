@@ -1,6 +1,6 @@
-# Next.js Multi-Tenant Lab
+# Multi-Tenant Lab Platform
 
-A production-ready multi-tenant lab application built with Next.js 16, featuring custom subdomains for each tenant.
+DevArts Lab subdomains turn one codebase into a home for every lab venture.
 
 ## Features
 
