@@ -1,6 +1,6 @@
-# Next.js Multi-Tenant Example
+# Next.js Multi-Tenant Lab
 
-A production-ready example of a multi-tenant application built with Next.js 16, featuring custom subdomains for each tenant.
+A production-ready multi-tenant lab application built with Next.js 16, featuring custom subdomains for each tenant.
 
 ## Features
 
@@ -34,7 +34,7 @@ A production-ready example of a multi-tenant application built with Next.js 16, 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/vercel/platforms.git
+   git clone https://github.com/DevArtsLab/platforms.git
    cd platforms
    ```
 
